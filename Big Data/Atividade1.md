@@ -164,24 +164,68 @@ O objetivo é aprender a *pensar como um cientista de dados*:
 
 ## 14. Mapa do Problema de Ciência de Dados
 
-```text
-PROBLEMA
-Alta evasão de alunos no noturno
-        ↓
-DADOS
-Frequência, notas, financeiro, AVA e perfil socioeconômico
-        ↓
-INFORMAÇÕES
-Fatores e perfis associados à desistência
-        ↓
-ANÁLISE
-Descritiva, temporal, agrupamento e previsão de risco
-        ↓
-DECISÃO
-Programa de retenção direcionado por perfil de risco
-        ↓
-BENEFÍCIO
-Menos evasão, mais formados e recursos bem aplicados
+*PROBLEMA*
+
+Alta evasão de alunos no noturno.
+
+↓
+
+*DADOS*
+
+Frequência, notas, situação financeira, AVA e perfil socioeconômico.
+
+↓
+
+*INFORMAÇÕES*
+
+Fatores e perfis associados à desistência.
+
+↓
+
+*ANÁLISE*
+
+Análise descritiva, temporal, agrupamento e previsão de risco.
+
+↓
+
+*DECISÃO*
+
+Programa de retenção direcionado por perfil de risco.
+
+↓
+
+*BENEFÍCIO*
+
+Menos evasão, mais alunos formados e recursos bem aplicados.
+
+### Resuma cada etapa
+
+*Problema:*
+
+> Alta evasão de alunos em cursos superiores noturnos.
+
+*Dados:*
+
+> Frequência, notas, situação financeira, perfil socioeconômico, acessos ao ambiente virtual e histórico de evasões.
+
+*Informação:*
+
+> Identificar quais fatores e perfis estão relacionados à desistência.
+
+*Análise:*
+
+> Análise descritiva, comparação entre grupos, análise temporal, agrupamento e previsão.
+
+*Decisão:*
+
+> Criar ações de acompanhamento e retenção para os alunos em risco.
+
+*Benefício:*
+
+> Redução da evasão, aumento da quantidade de alunos formados e melhor utilização dos recursos da instituição.
+
+---
+
 ## 15. Preparação para apresentação
 
 ### 1. Nosso problema
@@ -238,15 +282,24 @@ Menos evasão, mais formados e recursos bem aplicados
 
 ### Produto final
 
-```text
-Problema: evasão de alunos no ensino superior noturno
-   ↓
-Dados necessários: frequência, notas, financeiro, AVA e perfil socioeconômico
-   ↓
-Informações desejadas: fatores e sinais de risco de evasão
-   ↓
-Análise: descritiva, temporal, agrupamento e previsão
-   ↓
-Decisão: programa de acompanhamento direcionado
-   ↓
-Benefício esperado: menos evasão e mais alunos formados
+*Problema:* evasão de alunos no ensino superior noturno.
+
+↓
+
+*Dados necessários:* frequência, notas, situação financeira, AVA e perfil socioeconômico.
+
+↓
+
+*Informações desejadas:* fatores e sinais de risco de evasão.
+
+↓
+
+*Análise:* descritiva, temporal, agrupamento e previsão.
+
+↓
+
+*Decisão:* programa de acompanhamento direcionado.
+
+↓
+
+*Benefício esperado:* menos evasão e mais alunos formados.
